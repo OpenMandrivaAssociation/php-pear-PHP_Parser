@@ -98,7 +98,7 @@ rm -rf %{buildroot}
 
 %files
 %defattr(644,root,root,755)
-%doc %{_pearname}-%{version}/{examples/,test_jay.sh,Parser/Core5.jay}
+%doc %{_pearname}-%{version}/{examples,docs,tests}
 %dir %{_datadir}/pear/%{_class}/%{_subclass}
 %{_datadir}/pear/%{_class}/*.php
 %{_datadir}/pear/%{_class}/%{_subclass}/*.php
