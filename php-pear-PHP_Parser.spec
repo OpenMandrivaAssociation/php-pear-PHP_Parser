@@ -1,15 +1,15 @@
 %define		_class		PHP
 %define		_subclass	Parser
-%define		_status		devel
+%define		_status		alpha
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - a PHP grammar parser
 Name:		php-pear-%{_pearname}
-Version:	0.2.0
-Release:	%mkrel 3
+Version:	0.2.1
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
-Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
+Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 URL:		http://pear.php.net/package/PHP_Parser/
 Requires(post): php-pear
 Requires(preun): php-pear
