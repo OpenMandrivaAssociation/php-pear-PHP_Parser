@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.2.1
-Release:	%mkrel 6
+Release:	7
 Summary:	A PHP grammar parser
 License:	PHP License
 Group:		Development/PHP
