@@ -1,2 +1,4 @@
+removed_sources:
+  PHP_Parser-0.2.1.tgz: aca534b08f27b6401b44a872ad1267b1b73f4630
 sources:
-  "PHP_Parser-0.2.1.tgz": aca534b08f27b6401b44a872ad1267b1b73f4630
+  PHP_Parser-0.2.2.tgz: 4a65eaffa88ce3fcf23d45e32b765505add94697
