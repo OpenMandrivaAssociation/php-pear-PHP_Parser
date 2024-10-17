@@ -8,7 +8,7 @@ Release:	2
 Summary:	A PHP grammar parser
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/PHP_Parser/
+URL:		https://pear.php.net/package/PHP_Parser/
 Source0:	http://download.pear.php.net/package/PHP_Parser-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
